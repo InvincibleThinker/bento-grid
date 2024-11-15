@@ -23,6 +23,8 @@ Users should be able to:
 ### Screenshot
 
 ![](./design/mobile-design.jpg)
+![](./design/desktop-design.jpg)
+
 **Screenshot of mobile bento grid design and desktop bento grid design respectively**
 
 ### Links
